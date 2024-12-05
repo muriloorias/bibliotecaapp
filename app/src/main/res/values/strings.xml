@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biblioteca app</string>
+    <string name="button_add_description">botao para adicionar comentarios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comment">comentario</string>
+    <string name="isCritic">é uma critica</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="conclue_coment_description">botao para concluir o comentario</string>
+</resources>
